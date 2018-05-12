@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '26447'
     url: http://www.gutenberg.org/2009/agents/26447
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32254#World-Without-War
 gutenberg_issued: '2010-05-05'
 gutenberg_type: Text
 identifiers:
